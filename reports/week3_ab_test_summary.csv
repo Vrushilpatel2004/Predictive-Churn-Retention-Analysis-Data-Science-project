@@ -1,0 +1,12 @@
+metric,value
+high_risk_customers,1496
+control_n,757
+treatment_n,739
+control_retention_rate,0.2867
+treatment_retention_rate,0.3613
+absolute_lift,0.0746
+z_stat,3.0853
+p_value,0.002033
+significant_at_0.05,True
+ci95_low,0.0273
+ci95_high,0.1219
