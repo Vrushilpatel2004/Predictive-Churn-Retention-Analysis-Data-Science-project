@@ -1,0 +1,6 @@
+metric,value
+significant,True
+lift,0.0746
+p_value,0.002033
+expected_incremental_retained,111.66
+recommendation,"Recommend rolling out the retention offer to high-risk customers. Observed lift: 7.46% (p=0.0020), expected additional retained customers in this segment: 112."
