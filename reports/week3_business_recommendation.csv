@@ -1,6 +1,14 @@
 metric,value
 significant,True
-lift,0.0746
-p_value,0.002033
-expected_incremental_retained,111.66
-recommendation,"Recommend rolling out the retention offer to high-risk customers. Observed lift: 7.46% (p=0.0020), expected additional retained customers in this segment: 112."
+lift,0.1296
+p_value,0.0
+risk_threshold_used,0.39
+offers_sent,1663
+incremental_retained_est,215.58
+customer_value,180.0
+offer_cost,15.0
+incremental_value_est,38805.18
+total_offer_cost_est,24945.0
+estimated_net_profit,13860.18
+roi,0.5556
+recommendation,"Recommend rolling out the retention offer to high-risk customers. Observed lift: 12.96% (p=0.0000); estimated incremental retained customers: 215.6; estimated net profit in test-scale treatment group: $13,860.18."
